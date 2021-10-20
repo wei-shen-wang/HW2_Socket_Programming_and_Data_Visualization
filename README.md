@@ -1,1 +1,2 @@
 # HW2_Socket_Programming_and_Data_Visualization
+run socketp.py as server first and then run main.cpp to transmit magneto data to the server via wifi, the socket.py will use the data it gets to create a line chart like 3d_magento.png
